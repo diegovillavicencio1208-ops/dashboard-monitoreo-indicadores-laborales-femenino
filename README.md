@@ -1,4 +1,4 @@
-# Dashboard - Mercado Laboral Femenino | Ecuador 2024
+# Dashboard - Monitoreo de Indicadores Laborales Femenino | Ecuador 2024
 
 ## Descripción
 Dashboard interactivo desarrollado en Power BI a partir de datos oficiales de la ENEMDU, diseñado para facilitar el análisis del mercado laboral femenino mediante indicadores, segmentación geográfica y filtros dinámicos.
