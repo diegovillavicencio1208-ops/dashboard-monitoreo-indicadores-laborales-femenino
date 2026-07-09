@@ -52,7 +52,7 @@ Transformar información estadística pública en una herramienta interactiva qu
 
 ## Contactos
 
-[![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegovillavicencio1208-ops)
+[![Email](https://img.shields.io/badge/EMAIL-FFC107?style=for-the-badge&logo=gmail&logoColor=black)](mailto:diegovillavicenciodl@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegovillavicenciodl/)
 [![Website](https://img.shields.io/badge/WEBSITE-8E001C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diegovillavicencio.framer.website/)
 ---
