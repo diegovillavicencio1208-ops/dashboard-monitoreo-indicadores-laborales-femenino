@@ -34,7 +34,7 @@ Transformar información estadística pública en una herramienta interactiva qu
 - Power BI
 - DAX
 - Power Query
-- Excel
+- SQL
 
 ---
 
