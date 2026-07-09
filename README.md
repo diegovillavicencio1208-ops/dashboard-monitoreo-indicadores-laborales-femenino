@@ -44,8 +44,8 @@ Transformar información estadística pública en una herramienta interactiva qu
 ---
 
 ## Documentación
-- 📄 [Manual de usuario](<Manual de usuario - Ecos_ec.pdf>)
-- 📘 [Documentación técnica](DOCUMENTACION.md)
+- 📄 [Manual de usuario](https://github.com/diegovillavicencio1208-ops/dashboard-monitoreo-indicadores-laborales-femenino/blob/f27a49bd5a1de28f256060228cd359073a82c48c/Manual%20de%20usuario%20-%20Ecos_ec.pdf)
+- 📘 [Documentación técnica](https://github.com/diegovillavicencio1208-ops/dashboard-monitoreo-indicadores-laborales-femenino/blob/f27a49bd5a1de28f256060228cd359073a82c48c/Documentacion.md)
 - 📊 [Dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiMjdiMmZjOGItYjE4MS00M2E2LWEwN2ItYzI4YTA3NDRlNThjIiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=5a13ee042a084f76b50a)
 
 ---
