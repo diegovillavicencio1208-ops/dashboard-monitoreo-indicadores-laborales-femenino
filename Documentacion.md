@@ -1,3 +1,7 @@
+# Modelo de Datos
+
+![Modelo de Datos - Estrella](https://github.com/diegovillavicencio1208-ops/dashboard-monitoreo-indicadores-laborales-femenino/blob/b5a630f52b2e318163fdfdca7eba5e63028ff223/Imagenes/7.%20Modelo.png)
+
 # 📊 Medidas DAX — Mercado Laboral Femenino
 
 > **Proyecto:** Dashboard de situación del mercado laboral femenino en Ecuador  
